@@ -2,11 +2,13 @@
 
 A library for sending metrics to Graphite, that also provides drop in instrumentation for standard parts of Next applications e.g. [Express](https://expressjs.com/).
 
+I'm adding more documentation, blah blah blah.
+
 ## Usage
 
 ### Getting started
 
-Create an instance of the Metrics object:
+Create an instance of the Metrics object::x
 
 ```javascript
 const metrics = require('next-metrics');
